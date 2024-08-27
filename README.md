@@ -13,5 +13,4 @@
 
 ● Adjust Roll or Pitch (Head Relative Offset)
   ● On the head relative offset click on either "Roll" or "Pitch".
-
-![HowTo](https://github.com/user-attachments/assets/01cde86e-7349-44a1-afce-f9230198e795)
+![HowTo](https://github.com/user-attachments/assets/a9cdc800-65c1-4f94-87b2-4b66aaee9166)
