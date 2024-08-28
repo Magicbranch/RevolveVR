@@ -18,4 +18,27 @@
 
 
 
+
+
+
+●Things you need
+
+ ●WalkinVR
+
+● To keybind it, you can use OpenVR2Keys. https://github.com/BOLL7708/OpenVR2Key.
+
+Steps:
+
+● Launch the executable (.exe).
+
+● Adjust the execution speed by entering the desired milliseconds in the input box (default is set to 50 ms).
+
+● Use the provided buttons to start the default script, enable looping, or switch to an alternate script.
+
+● Press the "Set Hotkey" button to configure a custom hotkey to trigger the script.
+
 ![image](https://github.com/user-attachments/assets/871846fe-1e84-4cf7-aedb-d22e0936f055)
+
+
+
+
