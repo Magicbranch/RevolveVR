@@ -1,4 +1,3 @@
-![RR-Spin](https://github.com/user-attachments/assets/0f9272cf-fdf3-4648-ac7a-85c6da6284d8)
 ●Things you need
 
  ●WalkinVR
