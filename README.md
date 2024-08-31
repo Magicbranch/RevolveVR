@@ -46,5 +46,6 @@ If you’d like to subscribe to me on Rec Room, you can find me at @Magicbranch!
 
 Here is a video demonstrating it in action.
 
-https://github.com/user-attachments/assets/7704c907-a448-4aba-be9b-060a707f43f8
+
+![RR-Spin](https://github.com/user-attachments/assets/63b5c1b4-cb62-4f9e-90fc-70b12b640024)
 
