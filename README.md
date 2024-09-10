@@ -1,6 +1,6 @@
 ●Things you need
 
- ●WalkinVR  https://www.bing.com/search?pglt=43&q=walkinvr&cvid=e41877316de544df990d181fc08da31e&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQRRg90gEIMTcwMGowajGoAgCwAgA&FORM=ANNTA1&ucpdpc=UCPD&adppc=EDGEXST&PC=U531
+ ●WalkinVR https://store.steampowered.com/app/1248360/WalkinVR/
 
 ● To keybind it, you can use OpenVR2Keys. https://github.com/BOLL7708/OpenVR2Key.
 
