@@ -17,7 +17,7 @@ Steps:
 
 ● Press the "Set Hotkey" button to configure a custom hotkey to trigger the script.
 
-![image](https://github.com/user-attachments/assets/871846fe-1e84-4cf7-aedb-d22e0936f055)
+![Updategui](https://github.com/user-attachments/assets/6b5f3fde-3d9c-41b6-b2ef-4f33784a20dc)
 
 
 
