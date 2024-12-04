@@ -1,3 +1,6 @@
+tutorial how to https://www.youtube.com/watch?v=ABgDLhYmkPM
+
+
 ●Things you need
 
  ●WalkinVR https://store.steampowered.com/app/1248360/WalkinVR/
@@ -48,4 +51,5 @@ Here is a video demonstrating it in action.
 
 
 ![RR-Spin](https://github.com/user-attachments/assets/63b5c1b4-cb62-4f9e-90fc-70b12b640024)
+
 
